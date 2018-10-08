@@ -1,2 +1,2 @@
 # This is a Unity Game Project
-# Some source codes is from my previous assignments for my class
+# Some source codes are from my previous assignments for my class
